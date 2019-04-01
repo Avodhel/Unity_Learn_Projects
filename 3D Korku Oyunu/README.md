@@ -1,3 +1,3 @@
-# 3DKorkuOyunu_Repo
+# 3D Korku Oyunu (3D Horror Game)
 
-Repository for 3D Korku Oyunu
+This project is not completed yet.
