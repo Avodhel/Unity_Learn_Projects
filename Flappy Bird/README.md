@@ -1,3 +1,5 @@
-# FlappyBird_Repo
+# Flappy Bird
 
-Repository for Flappy Bird Clone game.
+This simple Flappy Bird Clone game made by me to learning Unity.
+
+#ʕ•㉨•ʔ
