@@ -21,4 +21,5 @@ public class ScaleChanger : MonoBehaviour {
     }
 
     /*error function 1*/
+    /*error function 2*/
 }
