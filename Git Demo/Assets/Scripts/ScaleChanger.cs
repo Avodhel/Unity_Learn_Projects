@@ -19,4 +19,6 @@ public class ScaleChanger : MonoBehaviour {
                            UnityEngine.Random.Range(0.5f, 1.5f),
                            UnityEngine.Random.Range(0.5f, 1.5f));
     }
+
+    /*error function 1*/
 }
